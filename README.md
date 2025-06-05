@@ -10,9 +10,9 @@ Sou o Haroldo Melo, natural de Ribeirão Preto, SP. Concluí o ensino médio no 
 
 ## 🌐 Contatos:
 <a href="https://linkedin.com/in/haroldomelo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="haroldomelo" height="30" width="40" /></a>
-<a href="https://fb.com/haroldomelo_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="haroldomelo_" height="30" width="40" /></a>
+<a href="https://www.facebook.com/haroldo.lmelo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="haroldomelo_" height="30" width="40" /></a>
 <a href="https://instagram.com/haroldo.melo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="haroldo.melo" height="30" width="40" /></a>
-<a href="https://medium.com/melo.harol@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" alt="melo.harol@gmail.com" height="30" width="40" /></a>
+<a href="mailto:melo.harol@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" alt="melo.harol@gmail.com" height="30" width="40" /></a>
 <a href="https://discord.gg/haroldomelo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="haroldomelo" height="30" width="40" /></a>
 </p>
 </br>
