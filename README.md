@@ -2,7 +2,7 @@
 
 **`Analista FP&A`**
 
-Sou o Haroldo Melo, natural de Ribeirão Preto, SP. Concluí o ensino médio no IFMA, com o curso técnico em informática. Graduado em Direito, motivado pela Gestão de Contratos e Direito Empresarial. Possuo experiência como Analista Pleno FP&A, acumulando mais de 10 anos de atuação em análise financeira e suporte a decisões estratégicas. Possui expertise em gestão de dados, criação de dashboards no Power BI, processos ETL e automação de relatórios — com destaque para o acesso a informação, produtividade na construção de relatórios e facilitação da visualização na VALE S/A. Atualmente em pós-graduação em Análise de Dados em Python, combinando conhecimentos avançados em programação com habilidades analíticas para gerar insights estratégicos. 
+Sou o Haroldo Melo, natural de Ribeirão Preto, SP. Concluí o ensino médio no IFMA, com o curso técnico em informática. Graduado em Direito, motivado pela Gestão de Contratos e Direito Empresarial. Possuo experiência como Analista FP&A, acumulando mais de 10 anos de atuação em análises financeiras e suporte a decisões estratégicas. Possui expertise em gestão de dados, criação de dashboards no Power BI, processos ETL e automação de relatórios — com destaque para o acesso a informação, produtividade na construção de relatórios e facilitação da visualização na VALE S/A. Atualmente em pós-graduação em Análise de Dados em Python, combinando conhecimentos avançados em programação com habilidades analíticas para gerar insights estratégicos. 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haroldomelo&label=Profile%20views&color=0e75b6&style=flat" alt="haroldomelo" /> </p>
 
